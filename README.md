@@ -1,3 +1,3 @@
 # README
 
-Starter "Hello World" app teaching basic project structure, ideologies and conventions.
+Starter "Hello World" rails app teaching basic project structure, ideologies and conventions.
